@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#121212"/>
+  <rect x="40" y="40" width="820" height="460" rx="14" fill="#1f1f1f" stroke="#4a4a4a"/>
+  <text x="60" y="80" fill="#ffffff" font-size="28" font-family="Arial">Now Playing Screen</text>
+
+  <rect x="40" y="530" width="820" height="60" rx="8" fill="#232323" stroke="#555"/>
+  <text x="60" y="568" fill="#cfcfcf" font-size="20" font-family="Arial">URL Input</text>
+
+  <rect x="880" y="40" width="360" height="640" rx="12" fill="#1a1a1a" stroke="#4a4a4a"/>
+  <text x="900" y="80" fill="#ffffff" font-size="28" font-family="Arial">Queue</text>
+  <text x="900" y="120" fill="#a8a8a8" font-size="18" font-family="Arial">1. chill stream (Added by Kai)</text>
+  <text x="900" y="155" fill="#a8a8a8" font-size="18" font-family="Arial">2. go commentary (Added by Rin)</text>
+  <text x="900" y="190" fill="#a8a8a8" font-size="18" font-family="Arial">3. ambient mix (Added by Sol)</text>
+
+  <rect x="40" y="610" width="120" height="50" rx="8" fill="#2f6fdf"/>
+  <text x="72" y="642" fill="#fff" font-size="20" font-family="Arial">Play</text>
+  <rect x="180" y="610" width="120" height="50" rx="8" fill="#3f3f3f"/>
+  <text x="205" y="642" fill="#fff" font-size="20" font-family="Arial">Pause</text>
+  <rect x="320" y="610" width="120" height="50" rx="8" fill="#7d4a12"/>
+  <text x="355" y="642" fill="#fff" font-size="20" font-family="Arial">Skip</text>
+  <rect x="460" y="610" width="160" height="50" rx="8" fill="#5e1f1f"/>
+  <text x="495" y="642" fill="#fff" font-size="20" font-family="Arial">Clear Queue</text>
+</svg>
